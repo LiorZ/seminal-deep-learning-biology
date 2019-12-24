@@ -11,7 +11,7 @@ Izhar](https://arxiv.org/abs/1510.02855)
 * [ElemNet: Deep Learning the Chemistry of Materials From Only Elemental Composition](https://www.nature.com/articles/s41598-018-35934-y)
 * [DeepDrug3D: Classification of ligand-binding pockets in proteins with a convolutional neural network](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006718)
 * [Mol2vec: Unsupervised Machine Learning Approach with Chemical Intuition.](https://pubs.acs.org/doi/10.1021/acs.jcim.7b00616)
-* [Unified rational protein engineering with sequence-based deep representation learning] (https://www.nature.com/articles/s41592-019-0598-1)
+* [Unified rational protein engineering with sequence-based deep representation learning](https://www.nature.com/articles/s41592-019-0598-1)
 
 ## Microscopy
 
